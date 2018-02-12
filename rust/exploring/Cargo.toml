@@ -1,0 +1,6 @@
+[package]
+name = "exploring"
+version = "0.1.0"
+authors = ["Danko Komlen <dkomlen@gmail.com>"]
+
+[dependencies]
