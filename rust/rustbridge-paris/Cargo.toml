@@ -1,0 +1,6 @@
+[package]
+name = "rustbridge-paris"
+version = "0.1.0"
+authors = ["Danko Komlen <dkomlen@amazon.com>"]
+
+[dependencies]
