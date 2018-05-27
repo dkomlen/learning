@@ -4,3 +4,6 @@ version = "0.1.0"
 authors = ["Danko Komlen <dkomlen@amazon.com>"]
 
 [dependencies]
+simple-server = "0.3.0"
+motivations = "1.1.2"
+rand = "0.5.0"
