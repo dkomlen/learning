@@ -1,0 +1,6 @@
+[package]
+name = "ctx_manager"
+version = "0.1.0"
+authors = ["Danko Komlen <dkomlen@amazon.com>"]
+
+[dependencies]
