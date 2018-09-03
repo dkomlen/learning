@@ -2,6 +2,9 @@ package arrays
 
 import common.{Solution, Solver}
 
+/**
+ * Checks if String consists of all unique characters
+ */
 object IsUnique extends Solution[String, Boolean] {
 
   solvers.append(Solver("NlogN-sorting", impl1))
