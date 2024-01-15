@@ -2,3 +2,6 @@ target/
 .idea/
 *.iml
 .DS_Store
+*.hi
+*.o
+haskell/bin
